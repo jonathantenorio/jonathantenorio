@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm a cis male person, so, he/him.
 - ⚡ Fun fact: I started in web development while doing freelance journalism, I ended up getting interested in technology, not only writing about it, but also developing things.
 
-### My main skills
+### My main skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,git,github)](https://skillicons.dev)
 
-### I'm currently learning
+### I'm currently learning:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs)](https://skillicons.dev)
 
