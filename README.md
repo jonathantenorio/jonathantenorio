@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 ### I have some knowledge on this technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,cpp,py,sql,java,kotlin,nodejs,react,php,rust,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,cpp,py,aws,java,kotlin,nodejs,react,php,rust,ts)](https://skillicons.dev)
