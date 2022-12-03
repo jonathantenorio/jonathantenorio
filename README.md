@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm a cis male person, so, he/him.
 - ⚡ Fun fact: I started in web development while doing freelance journalism, I ended up getting interested in technology, not only writing about it, but also developing things.
 
+
+### I have some knowledge on this technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,cpp,py,sql,java,kotlin,nodejs,react,php,rust,ts)](https://skillicons.dev)
