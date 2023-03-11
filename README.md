@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### My main skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vuejs,react,nodejs,git,github)](https://skillicons.dev)
 
 ### I'm currently learning:
 
