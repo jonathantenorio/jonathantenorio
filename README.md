@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ### My main skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vuejs,react,nodejs,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,vuejs,react,cs,nodejs,dotnet,git,github)](https://skillicons.dev)
 
 ### I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang, react)](https://skillicons.dev)
 
 ### I have some knowledge on this technologies:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,aws,gcp,kotlin,php,rust,go)](https://skillicons.dev)
