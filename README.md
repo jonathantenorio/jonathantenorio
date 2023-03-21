@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=golang, react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react)](https://skillicons.dev)
 
 ### I have some knowledge on this technologies:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,aws,gcp,kotlin,php,rust,go)](https://skillicons.dev)
