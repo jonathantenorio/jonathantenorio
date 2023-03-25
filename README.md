@@ -2,6 +2,8 @@
 
 I'm a brazilian wish-to-be developer, I've been most part of my life selfteaching. Thats was the way I've learned english and most of the things I know today about programming. I'm aware thats a looooooooooooooong way to go, but I'm excited to keep this track. 
 
+<!-- Space for portfolio page (When created) -->
+
 <!--
 **tenoriodasilva31/tenoriodasilva31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
