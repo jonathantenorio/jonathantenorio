@@ -10,7 +10,8 @@ I'm a brazilian wish-to-be developer, I've been most part of my life selfteachin
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my carrer as a developer
-- 🌱 I’m currently learning Angular and .Net/C#
+- :pencil: CC Student @ Estácio
+- 🌱 I’m currently learning React and PHP
 - 👯 I’m looking to collaborate on Front-end projects
 - 📫 You can reach me at: jonathan.tenoriodev@gmail.com
 - 😄 Pronouns: I'm a cis male person, so, he/him.
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 
 ### I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=go,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,PHP)](https://skillicons.dev)
 
 ### I have some knowledge on this technologies:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,aws,gcp,kotlin,php,rust,go)](https://skillicons.dev)
