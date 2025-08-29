@@ -15,11 +15,11 @@ Sou um desenvolvedor brasileiro apaixonado por tecnologia, com uma jornada únic
 > *"A tecnologia nao e apenas sobre codigo, e sobre resolver problemas e criar experiencias que impactam a vida das pessoas."*
 
 ### 🎯 Objetivos Atuais
-- 🔥 Desenvolvendo minha carreira como desenvolvedor Full Stack
-- 📚 Cursando Ciencia da Computacao na Estacio
+- 🔥 Desenvolvendo minha carreira como desenvolvedor Full Stack & Cloud
+- 📚 Cursando Ciência da Computacao na Estacio (5/8)
 - 🌱 Aprofundando conhecimentos em React e PHP
 - 🤝 Buscando projetos que me ajudem a aprender cada vez mais e mais.
-
+- 💻 Estagiando na Nublify ☁️
 ---
 
 ## 🛠️ Stack Tecnológica
